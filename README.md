@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/100096029/177211078-07b0645f-36cf-438c-8271-8a10b680a489.gif" alt="banner">
+
+
 ## I Made Zainul M
 Hi 👋, I'm Made, a Developer and novel translator. I've graduated 🎓 from University of AMIKOM YOGYAKARTA with a Bachelor Degree in Information Technology👨‍💻. I have interest in Mobile Developer📱, Data Science and Machine Learning👾 as well. Recently I've been working on projects using Flutter alot. You can checkout my Flutter Project in my Repository. Right now I'm looking for a job as a Mobile Developer. If you interest in Light Novel or web Novel, you can visit my website 
 [here](http://kuronekotranslation.blogspot.com/)
